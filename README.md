@@ -2,7 +2,7 @@
 
 # Login_form-
 
-Simple Login page using HTML and CSS. Adding PHP and mySQl ...(in progress) 
+Simple Login page using HTML and CSS. 
 
 https://lia879.github.io/Login_form-/
 
